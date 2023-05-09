@@ -1,1 +1,15 @@
+{
+  "Structure of bug report" : [
+    "id",
+    "environment",
+    "title",
+    "precondition",
+    "steps to reproduce",
+    "expected result",
+    "actual result",
+    "attachments",
+    "bug link",
+    ]
+}
 
+    
